@@ -1,11 +1,11 @@
 # fs-
-A module that contains both API and CLi
+A module that contains both API and CLI
 
 ## install
 
 ```
 npm install fs-
-npm install fs-
+npm install fs- -g
 ```
 
 ## usage  
